@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Swarali Vinayak Chine
 
 <!--
 **swaralichine/swaralichine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

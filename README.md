@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science Arizona State University.
+- 🎓 &nbsp; Pursuing a Masters Degree in Computer Science at Arizona State University.
 - 💼 &nbsp; Working as a DevOps Engineer Intern at Emetric.
 - 🌱 &nbsp; Learning more about Cloud Computing, DevOps and Web Technologies.
 - ✍️ &nbsp;  Design websites and Blog Writing as hobbies/side hustles.

@@ -37,6 +37,7 @@
 
 <br/>
 
+I am actively looking for Co-op opportunities starting Januray 2023 and full time opportunities starting June 2023.
 
 
 

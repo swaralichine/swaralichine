@@ -76,8 +76,8 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 
 🤔 Wanna see my credentials?
 
-- 👔 [LinkedIn]([https://www.linkedin.com/in/harshnagoriya/](https://www.linkedin.com/in/swaralichine/))
-- 💻 [GitHub]([https://github.com/harshnagoriya](https://github.com/swaralichine))
+- 👔 [LinkedIn] : https://www.linkedin.com/in/swaralichine/
+- 💻 [GitHub]: https://github.com/swaralichine
 
 
 <h2> I am actively looking for Co-op opportunities starting Januray 2023 and full time opportunities starting June 2023. </h2>

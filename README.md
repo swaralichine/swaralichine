@@ -22,7 +22,7 @@ My areas of interest are Cloud Computing,Software Development, DevOps, Data Scie
 
 **Master of Science in Computer Science** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_Arizona State University, Tempe, AZ_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-_Relevant Coursework: Cloud Computing, Mobile Computing, Distributed Database Systems, Semantic Web Mining, Foundations of Algorithm<br>
+_Relevant Coursework: Cloud Computing, Mobile Computing, Distributed Database Systems, Semantic Web Mining, Foundations of Algorithm_<br>
 
 **Bachelor of Engineering in Electronics and Telecommunications** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_Pune Institute of Computer Technology, Pune, India_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>

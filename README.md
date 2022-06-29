@@ -1,15 +1,34 @@
 
 <h2> Hey there 👋, I'm Swarali Vinayak Chine.</h2>
 
+My areas of interest are Cloud Computing,Software Development, DevOps, Data Science, Distributed Database Systems and Operating Systems.I am always eager to hone my skills by learning new things. 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursuing a Masters Degree in Computer Science at Arizona State University.
 - 💼 &nbsp; Working as a DevOps Engineer Intern at Emetric.
 - 🌱 &nbsp; Learning more about Cloud Computing, DevOps and Web Technologies.
+- 📫 How to reach me: Mail me at schine@asu.edu (mailto:schine@asu.edu)
 - ✍️ &nbsp;  Design websites and Blog Writing as hobbies/side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+🧠 Let's talk about my profile.
+
+- Dynamic and creative technophile, having hands-on experience in producing robust code and testing processes. 
+- Hands-on involvement in Java, Python, SQL Data Processing and Cloud Computing.
+- Effective interpersonal communication, team development skills and the competence to interact with cross-functional groups to accomplish objectives and meet critical deadlines in an Agile environment.
+
+
+🎓 Let's Talk about my qualifications. 
+
+**Master of Science in Computer Science** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_Arizona State University, Tempe, AZ_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+_Relevant Coursework: Cloud Computing, Mobile Computing, Distributed Database Systems, Semantic Web Mining, Foundations of Algorithm<br>
+
+**Bachelor of Engineering in Electronics and Telecommunications** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_Pune Institute of Computer Technology, Pune, India_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+_Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
+
+💡 Let's Talk about my skills. 
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -37,7 +56,31 @@
 
 <br/>
 
-I am actively looking for Co-op opportunities starting Januray 2023 and full time opportunities starting June 2023.
+💼 Let's Talk about my experiences. 
+
+**Emetric, San Antonio,Texas** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_DevOps Engineer Intern_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+- Working on developing operations, automating operational processes, managing continuous delivery systems, and maintaining cloud services.
+
+**Arizona State University, Tempe, AZ** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_Graduate Statistics Tutor_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+- Tutored 150+ students in the areas of Statistics,Data Analysis,Data Visualization using hypothesis testing (T-test,ANOVA test) and regression models (Logistic, Linear) with the help of Python,SPSS,RStudio,TABLEAU,Microsoft Excel and MATLAB.
+
+
+**Yardi Systems, Pune, India** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_Software Engineer_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+- Understanding requirements, Designing and developing and implementing systems. <br/>
+- Coordinating with client, dev , QA and implementation team to complete the projects.<br/>
+-  SQL server, BI and Visual studio being the most proficient areas.<br/>
+-  I was responsible for understanding the custom requirements of international clients and delivering the solutions as per the specifactions.<br/>
+
+🤔 Wanna see my credentials?
+
+- 👔 [LinkedIn]([https://www.linkedin.com/in/harshnagoriya/](https://www.linkedin.com/in/swaralichine/))
+- 💻 [GitHub]([https://github.com/harshnagoriya](https://github.com/swaralichine))
+
+
+<h2> I am actively looking for Co-op opportunities starting Januray 2023 and full time opportunities starting June 2023. </h2>
 
 
 

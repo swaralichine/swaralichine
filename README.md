@@ -78,7 +78,12 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 
 - 👔 [LinkedIn] : https://www.linkedin.com/in/swaralichine/
 - 💻 [GitHub]: https://github.com/swaralichine
+ 
+:office: Wanna see my portfolio?
 
+- https://swaralichine.github.io/
+- https://swaralichine.netlify.app/
+- https://chineswarali.wixsite.com/swaralichine
 
 <h2> I am actively looking for Co-op opportunities starting Januray 2023 and full time opportunities starting June 2023. </h2>
 

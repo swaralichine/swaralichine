@@ -1,6 +1,8 @@
 
 <h2> Hey there 👋, I'm Swarali Vinayak Chine.</h2>
 
+<h1> I am actively looking for Co-op opportunities starting Januray 2023 and full time opportunities starting June 2023. </h1>
+
 My areas of interest are Cloud Computing,Software Development, DevOps, Data Science, Distributed Database Systems and Operating Systems.I am always eager to hone my skills by learning new things. 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -84,8 +86,4 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 - https://swaralichine.github.io/
 - https://swaralichine.netlify.app/
 - https://chineswarali.wixsite.com/swaralichine
-
-<h2> I am actively looking for Co-op opportunities starting Januray 2023 and full time opportunities starting June 2023. </h2>
-
-
 

@@ -80,6 +80,7 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 
 - 👔 [LinkedIn] : https://www.linkedin.com/in/swaralichine/
 - 💻 [GitHub]: https://github.com/swaralichine
+- ✍️  [Medium]: https://medium.com/@chineswarali
  
 :office: Wanna see my portfolio?
 

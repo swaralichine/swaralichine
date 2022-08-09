@@ -17,14 +17,6 @@ My areas of interest are Cloud Computing,Software Development, DevOps, Data Scie
 - 👨‍💻 Check out my personal portfolio : **<a href="https://swaralichine.github.io/" target="_blank">Portfolio</a>**
 
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://www.linkedin.com/in/swaralichine/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:chineswarali@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </div>
-  
-
-
 
 🧠 Let's talk about my profile.
 

@@ -12,6 +12,7 @@ My areas of interest are Cloud Computing,Software Development, DevOps, Data Scie
 - 🌱 &nbsp; Learning more about Cloud Computing, DevOps and Web Technologies.
 - 📫 How to reach me: Mail me at schine@asu.edu (mailto:schine@asu.edu)
 - ✍️ &nbsp;  Design websites and Blog Writing as hobbies/side hustles.
+- 👨‍💻 Check out my personal portfolio : **<a href="https://swaralichine.github.io/" target="_blank">Portfolio</a>**
 
 🧠 Let's talk about my profile.
 

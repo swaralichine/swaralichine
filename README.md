@@ -6,6 +6,8 @@
 My areas of interest are Cloud Computing,Software Development, DevOps, Data Science, Distributed Database Systems and Operating Systems.I am always eager to hone my skills by learning new things. 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+
+- 🌱 Learning Never Stops 🚀
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursuing a Masters Degree in Computer Science at Arizona State University.
 - 💼 &nbsp; Working as a DevOps Engineer Intern at Emetric.
@@ -21,6 +23,8 @@ My areas of interest are Cloud Computing,Software Development, DevOps, Data Scie
   <a href="mailto:chineswarali@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </div>
   
+
+
 
 🧠 Let's talk about my profile.
 

@@ -67,7 +67,10 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 
 **Emetric, San Antonio,Texas** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_DevOps Engineer Intern_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-- Working on developing operations, automating operational processes, managing continuous delivery systems, and maintaining cloud services.
+- Worked on developing operations, automating operational processes, managing continuous delivery systems, and maintaining cloud services.<br>
+- Setup CI/CD pipelines using Gitlab and Azure Pipelines. <br>
+- Deployed and Troubleshoot .NET Core, NodeJS applications and Microservices in Azure Kubernetes Service (AKS). <br>
+- Technology - Microsoft Azure, DevOps, Python, Bash, Git <br>
 
 **Arizona State University, Tempe, AZ** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_Graduate Statistics Tutor_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
@@ -76,10 +79,12 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 
 **Yardi Systems, Pune, India** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_Software Engineer_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-- Understanding requirements, Designing and developing and implementing systems. <br/>
-- Coordinating with client, dev , QA and implementation team to complete the projects.<br/>
--  SQL server, BI and Visual studio being the most proficient areas.<br/>
--  I was responsible for understanding the custom requirements of international clients and delivering the solutions as per the specifactions.<br/>
+- Development - Worked extensively on end-to-end execution of data migration projects involving ETL, data mapping, conversions. Gathering business requirements, designing and developing various customize reports. Handled large sets of data cleaning and data manipulations in CRM/Voyager product of Yardi. <br>
+- Ownership - Resolved data issues related to Balance sheet, Income statement, Ledger Reports, Financial aging reports. Collaborate with management and peers to address complex client requests and resolve issues. <br>
+- Mentoring - Delivered training to new employees on Yardi’s product features, in house reporting tool YSR. <br>
+- Customer Support - Resolved a total of 750+ critical cases and modification cases. Worked closely
+with consultants and account managers post live conversion to provide any required technical support. <br>
+- Technology - Python, SQL, MS SQL Server, C#, .Net, SSRS, Excel
 
 🤔 Wanna see my credentials?
 

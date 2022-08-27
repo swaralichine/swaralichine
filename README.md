@@ -32,7 +32,7 @@ My areas of interest are Cloud Computing,Software Development, DevOps, Data Scie
 _Relevant Coursework: Cloud Computing, Mobile Computing, Distributed Database Systems, Semantic Web Mining, Foundations of Algorithm_<br>
 
 **Bachelor of Engineering in Electronics and Telecommunications** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-**_Pune Institute of Computer Technology, Pune, India_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_Pune Institute of Computer Technology, Pune, India GPA : 8.62/10.0_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 
 💡 Let's Talk about my skills. 
@@ -66,7 +66,7 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 💼 Let's Talk about my experiences. 
 
 **University Academic Success Program,ASU, Tempe** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-**_Subject Area Tutor_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_Subject Area Tutor_ (Aug'22 - Present)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 - Tutoring students in Maths, C,C++,Java, Python, Databases, Information Systems,Excel,Matlab,R.
 
 **Emetric, San Antonio,Texas** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>

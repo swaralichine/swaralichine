@@ -10,7 +10,7 @@ My areas of interest are Cloud Computing,Software Development, DevOps, Data Scie
 - 🌱 Learning Never Stops 🚀
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursuing a Masters Degree in Computer Science at Arizona State University.
-- 💼 &nbsp; Working as a DevOps Engineer Intern at Emetric.
+- 💼 &nbsp; Worked as a Software Engineer at Yardi Systems, DevOps Engineer Intern at Emetric.
 - 🌱 &nbsp; Learning more about Cloud Computing, DevOps and Web Technologies.
 - 📫 How to reach me: Mail me at schine@asu.edu (mailto:schine@asu.edu)
 - ✍️ &nbsp;  Design websites and Blog Writing as hobbies/side hustles.

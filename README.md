@@ -1,7 +1,7 @@
 
 <h2> Hey there 👋, I'm Swarali Vinayak Chine.</h2>
 
-<h3> I am actively looking for internship opportunities starting January 2023 and full time opportunities starting May 2023. </h3>
+<h3> I am actively looking for full time opportunities in SDE/Data/DevOps roles starting May 2023. </h3>
 
 My areas of interest are Cloud Computing,Software Development, DevOps, Data Science, Distributed Database Systems and Operating Systems.I am always eager to hone my skills by learning new things. 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -65,8 +65,12 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 
 💼 Let's Talk about my experiences. 
 
+**W.P. Carey School of Business,ASU, Tempe** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_Department Research Lab Coordinator_             (Jan'23 - Present)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+- The Department of Management & Entrepreneurship in the W.P. Carey School of Business is searching for a Department Research Lab Coordinator to help students,faculty and doctoral students in the lab.
+
 **University Academic Success Program,ASU, Tempe** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-**_Subject Area Tutor_             (Aug'22 - Present)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_Subject Area Tutor_             (Aug'22 - Nov'22)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 - Tutoring students in Maths, C,C++,Java, Python, Databases, Information Systems,Excel,Matlab,R.
 
 **Emetric, San Antonio,Texas** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>

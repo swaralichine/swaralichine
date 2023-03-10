@@ -3,7 +3,7 @@
 
 <h3> I am actively looking for full time opportunities in SDE/Data/DevOps roles starting May 2023. </h3>
 
-My areas of interest are Cloud Computing,Software Development, DevOps, Data Science, Distributed Database Systems and Operating Systems.I am always eager to hone my skills by learning new things. 
+My areas of interest are Software Development, DevOps, Data Engineering.I am always eager to hone my skills by learning new things. 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 

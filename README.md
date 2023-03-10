@@ -65,8 +65,19 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 
 💼 Let's Talk about my experiences. 
 
+
+**Tesla, Lathrop,California** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**Software Engineer Intern_         (Feb'23 - Present)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+- Creating data pipeline using Python, REST API framework for Service Manufacturing and Mega factory operations.
+- Establishing consistent data warehouse, data mark through data manipulation processes and ETL pipeline.
+- DevelopingimpactfuldatavisualizationwithTableau,ReactandWebforexecutives.
+- Developing new data tools and web application with Flask and Django for process optimization and improving Tesla
+service efficiency.
+- Technology-Python,SQL,AWS,Flask,Django,WebDevelopment,React.js,JavaScript,Kubernetes,Docker,R,
+MachineLearning, Automation. <br>
+
 **W.P. Carey School of Business,ASU, Tempe** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-**_Department Research Lab Coordinator_             (Jan'23 - Present)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_Department Research Lab Coordinator_             (Jan'23 - Feb'23)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 - The Department of Management & Entrepreneurship in the W.P. Carey School of Business is searching for a Department Research Lab Coordinator to help students,faculty and doctoral students in the lab.
 
 **University Academic Success Program,ASU, Tempe** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>

@@ -67,7 +67,7 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 
 
 **Tesla, Lathrop,California** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-**Software Engineer Intern_         (Feb'23 - Present)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**Software Engineer Intern.          (Feb'23 - Present)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 - Creating data pipeline using Python, REST API framework for Service Manufacturing and Mega factory operations.
 - Establishing consistent data warehouse, data mark through data manipulation processes and ETL pipeline.
 - DevelopingimpactfuldatavisualizationwithTableau,ReactandWebforexecutives.

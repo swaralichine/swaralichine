@@ -1,16 +1,16 @@
 
 <h2> Hey there 👋, I'm Swarali Vinayak Chine.</h2>
 
-<h3> I am actively looking for full time opportunities in SDE/Data/DevOps roles starting May 2023. </h3>
+<h3> I am actively looking for full time opportunities in SDE/DevOps/Cloud roles starting July 2023. </h3>
 
-My areas of interest are Software Development, DevOps, Data Engineering.I am always eager to hone my skills by learning new things. 
+My areas of interest are Software Development, DevOps and Cloud Engineering.I am always eager to hone my skills by learning new things. 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
 - 🌱 Learning Never Stops 🚀
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Pursuing a Masters Degree in Computer Science at Arizona State University.
-- 💼 &nbsp; Worked as a Software Engineer at Yardi Systems, DevOps Engineer Intern at Emetric.
+- 💼 &nbsp; Worked as a Software Engineer at Yardi Systems, DevOps Engineer Intern at Emetric,Software Engineer Intern at Tesla.
 - 🌱 &nbsp; Learning more about Cloud Computing, DevOps and Web Technologies.
 - 📫 How to reach me: Mail me at schine@asu.edu (mailto:schine@asu.edu)
 - ✍️ &nbsp;  Design websites and Blog Writing as hobbies/side hustles.
@@ -28,7 +28,7 @@ My areas of interest are Software Development, DevOps, Data Engineering.I am alw
 🎓 Let's Talk about my qualifications. 
 
 **Master of Science in Computer Science** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-**_Arizona State University, Tempe, AZ GPA : 3.8/4.0_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**_Arizona State University, Tempe, AZ GPA : 3.7/4.0_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 _Relevant Coursework: Cloud Computing, Mobile Computing, Distributed Database Systems, Semantic Web Mining, Foundations of Algorithm_<br>
 
 **Bachelor of Engineering in Electronics and Telecommunications** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>

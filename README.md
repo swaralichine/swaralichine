@@ -1,9 +1,9 @@
 
 <h2> Hey there 👋, I'm Swarali Vinayak Chine.</h2>
 
-<h3> I am working as a Cloud Engineer at Wasabi Technologies. Anything and everything about Cloud excites me. </h3>
+<h3> I am working as a Cloud Engineer at Wasabi Technologies. </h3>
 
-My areas of interest are Software Development, DevOps and Cloud Engineering.I am always eager to hone my skills by learning new things. 
+My areas of interest are Software Development, DevOps and Cloud Engineering.I am always eager to hone my skills by learning new things. Anything and everything about Cloud excites me.
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 

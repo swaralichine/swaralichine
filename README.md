@@ -1,7 +1,7 @@
 
 <h2> Hey there 👋, I'm Swarali Vinayak Chine.</h2>
 
-<h3> I am actively looking for full time opportunities in SDE/DevOps/Cloud roles starting July 2023. </h3>
+<h3> I am working as a Cloud Engineer at Wasabi Technologies. Anything and everything about Cloud excites me. </h3>
 
 My areas of interest are Software Development, DevOps and Cloud Engineering.I am always eager to hone my skills by learning new things. 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -65,6 +65,14 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 
 💼 Let's Talk about my experiences. 
 
+**Wasabi Technologies, Boston,Massachusetts (Remote)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**Cloud Engineer           (Oct'23 - Present)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+- Implemented AWS security best practices using IAM, KMS, and MFA which involves the creation of IAM policies, IAM Roles, virtual MFA, STS, etc. for specific use cases.
+- Automation using Python scripts for in-house projects.
+- DevelopingimpactfuldatavisualizationwithTableau,ReactandWebforexecutives.
+- Lead many debug sessions with customers' S3 applications. Also, using tools like Kibana for analyzing server logs to debug performance issues and Grafana to understand the metrics of their data through queries.
+- Validating the Wasabi s3 application's interoperability and debugging various configuration errors while integrating Third party vendor tools like Veeam, Acronis, Nakivo, etc. with S3.
+- Technology- AWS,Python,Cloud Computing,Cloud Automation <br>
 
 **Tesla, Lathrop,California** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **Software Engineer Intern          (Feb'23 - May'23)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>

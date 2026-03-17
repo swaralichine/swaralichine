@@ -3,17 +3,17 @@
 
 <h3> I am working as a Cloud Engineer at Wasabi Technologies. </h3>
 
-My areas of interest are Software Development, DevOps and Cloud Engineering.I am always eager to hone my skills by learning new things. Anything and everything about Cloud excites me.
+Obsessed with Cloud & Security — If it runs in the cloud, I want to build and secure it
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
 - 🌱 Learning Never Stops 🚀
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Pursuing a Masters Degree in Computer Science at Arizona State University.
+- 🎓 &nbsp; Pursued a Masters Degree in Computer Science at Arizona State University.
 - 💼 &nbsp; Worked as a Software Engineer at Yardi Systems, DevOps Engineer Intern at Emetric,Software Engineer Intern at Tesla.
-- 🌱 &nbsp; Learning more about Cloud Computing, DevOps and Web Technologies.
-- 📫 How to reach me: Mail me at schine@asu.edu (mailto:schine@asu.edu)
-- ✍️ &nbsp;  Design websites and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Cloud Computing, DevOps and Security.
+- 📫 How to reach me: Mail me at chineswarali@gmail.com (mailto:chineswarali@gmail.com)
+- ✍️ &nbsp;  Cloud explorer | Builder | Blogger
 - 👨‍💻 Check out my personal portfolio : **<a href="https://swaralichine.github.io/" target="_blank">Portfolio</a>**
 
 

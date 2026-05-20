@@ -1,7 +1,7 @@
 
 <h2> Hey there 👋, I'm Swarali Vinayak Chine.</h2>
 
-<h3> I am working as a Cloud Engineer at Wasabi Technologies. </h3>
+<h3> I am working as a Senior Technical Support Engineer at Wasabi Technologies. </h3>
 
 Obsessed with Cloud & Security — If it runs in the cloud, I want to build and secure it
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>

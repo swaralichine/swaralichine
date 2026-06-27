@@ -91,8 +91,7 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 ## 💼 Experience
 
 ### Wasabi Technologies | Remote
-**Senior Technical Support Engineer**  
-*October 2023 – Present*
+**Senior Technical Support Engineer**  (October 2023 – Present)
 
 - Resolved **3,000+ enterprise customer cases** and **250+ high-severity incidents**, troubleshooting cloud storage, networking, authentication, and API issues while consistently delivering excellent customer outcomes.
 - Served as a Subject Matter Expert (SME) for **AWS-compatible S3 Object Storage**, leading technical investigations, reproducing customer issues, analyzing server logs with **Kibana**, and leveraging **Grafana** and **Prometheus** to diagnose performance and infrastructure issues.

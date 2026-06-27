@@ -20,9 +20,10 @@ Obsessed with Cloud & Security — If it runs in the cloud, I want to build and 
 
 🧠 Let's talk about my profile.
 
-- Dynamic and creative technophile, having hands-on experience in producing robust code and testing processes. 
-- Hands-on involvement in Java, Python, SQL Data Processing and Cloud Computing.
-- Effective interpersonal communication, team development skills and the competence to interact with cross-functional groups to accomplish objectives and meet critical deadlines in an Agile environment.
+- Cloud Support Engineer with 3+ years of experience solving complex infrastructure challenges across AWS, S3-compatible object storage, IAM, networking, REST APIs, and distributed systems.
+- Passionate about building automation and developer tools using Python, with experience creating internal solutions that improve operational efficiency, simplify workflows, and enhance customer support.
+- Strong collaborator who enjoys debugging production issues, performing root cause analysis, and working cross-functionally with Engineering, Product, and Customer Success teams to deliver scalable, customer-focused solutions.
+
 
 
 🎓 Let's Talk about my qualifications. 
@@ -66,7 +67,7 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 💼 Let's Talk about my experiences. 
 
 **Wasabi Technologies, Boston,Massachusetts (Remote)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-**Cloud Engineer           (Oct'23 - Present)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
+**Senior Technical Support Engineer           (Oct'23 - Present)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 - Implemented AWS security best practices using IAM, KMS, and MFA which involves the creation of IAM policies, IAM Roles, virtual MFA, STS, etc. for specific use cases.
 - Automation using Python scripts for in-house projects.
 - DevelopingimpactfuldatavisualizationwithTableau,ReactandWebforexecutives.

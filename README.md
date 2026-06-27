@@ -13,7 +13,7 @@ Obsessed with Cloud & Security — If it runs in the cloud, I want to build and 
 - 💼 &nbsp; Worked as a Software Engineer at Yardi Systems, DevOps Engineer Intern at Emetric,Software Engineer Intern at Tesla.
 - 🌱 &nbsp; Learning more about Cloud Computing, DevOps and Security.
 - 📫 How to reach me: Mail me at chineswarali@gmail.com (mailto:chineswarali@gmail.com)
-- ✍️ &nbsp;  Cloud explorer | Builder | Blogger
+- ✍️ &nbsp; Cloud explorer | Builder | Blogger
 - 👨‍💻 Check out my personal portfolio : **<a href="https://swaralichine.github.io/" target="_blank">Portfolio</a>**
 
 

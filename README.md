@@ -36,56 +36,55 @@ _Relevant Coursework: Cloud Computing, Mobile Computing, Distributed Database Sy
 **_Pune Institute of Computer Technology, Pune, India GPA : 8.62/10.0_** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 
-💡 Let's Talk about my skills. 
 
-- ☁️ **Cloud & Infrastructure**
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
-  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 
-- 💻 **Programming**
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash)
+## 💡 Let's Talk About My Skills
 
-- 🌐 **Backend & APIs**
-  ![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat)
-  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
 
-- 🗄️ **Databases & Storage**
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-333333?style=flat&logo=amazons3)
+### 💻 Programming
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash)
 
-- 📊 **Monitoring & Observability**
-  ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
-  ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
-  ![CloudWatch](https://img.shields.io/badge/-Amazon%20CloudWatch-333333?style=flat&logo=amazonaws)
+### 🌐 Backend & APIs
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-333333?style=flat)
 
-- 🔐 **Cloud Security**
-  ![IAM](https://img.shields.io/badge/-AWS%20IAM-333333?style=flat&logo=amazonaws)
-  ![KMS](https://img.shields.io/badge/-AWS%20KMS-333333?style=flat&logo=amazonaws)
-  ![SSO](https://img.shields.io/badge/-Single%20Sign--On-333333?style=flat)
-  ![MFA](https://img.shields.io/badge/-MFA-333333?style=flat)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-- 🛠️ **Developer Tools**
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+### 📊 Monitoring
+![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+![CloudWatch](https://img.shields.io/badge/-CloudWatch-333333?style=flat&logo=amazonaws)
 
-<br/>
+### 🔐 Cloud Security
+![IAM](https://img.shields.io/badge/-AWS%20IAM-333333?style=flat&logo=amazonaws)
+![KMS](https://img.shields.io/badge/-AWS%20KMS-333333?style=flat&logo=amazonaws)
+![SSO](https://img.shields.io/badge/-SSO-333333?style=flat)
+![MFA](https://img.shields.io/badge/-MFA-333333?style=flat)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
 
 💼 Let's Talk about my experiences. 
 

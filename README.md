@@ -8,7 +8,7 @@ Obsessed with Cloud & Security — If it runs in the cloud, I want to build and 
 
 
 - 🌱 Learning Never Stops 🚀
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Working as a Senior Technical Support Engineer at Wasabi Technologies LLC.
 - 🎓 &nbsp; Pursued a Masters Degree in Computer Science at Arizona State University.
 - 💼 &nbsp; Worked as a Software Engineer at Yardi Systems, DevOps Engineer Intern at Emetric,Software Engineer Intern at Tesla.
 - 🌱 &nbsp; Learning more about Cloud Computing, DevOps and Security.

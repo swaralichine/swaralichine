@@ -90,12 +90,14 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 
 **Wasabi Technologies, Boston,Massachusetts (Remote)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **Senior Technical Support Engineer           (Oct'23 - Present)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-- Implemented AWS security best practices using IAM, KMS, and MFA which involves the creation of IAM policies, IAM Roles, virtual MFA, STS, etc. for specific use cases.
-- Automation using Python scripts for in-house projects.
-- DevelopingimpactfuldatavisualizationwithTableau,ReactandWebforexecutives.
-- Lead many debug sessions with customers' S3 applications. Also, using tools like Kibana for analyzing server logs to debug performance issues and Grafana to understand the metrics of their data through queries.
-- Validating the Wasabi s3 application's interoperability and debugging various configuration errors while integrating Third party vendor tools like Veeam, Acronis, Nakivo, etc. with S3.
-- Technology- AWS,Python,Cloud Computing,Cloud Automation <br>
+- Resolved 3,000+ enterprise customer support cases and 250+ high-severity incidents, troubleshooting complex cloud storage, networking, authentication, and API issues while consistently exceeding customer satisfaction goals.
+- Served as a Subject Matter Expert (SME) for AWS-compatible S3 Object Storage, leading technical investigations, reproducing customer issues, analyzing server logs using Kibana, and leveraging Grafana and Prometheus to diagnose performance, latency, and infrastructure-related problems.
+- Assisted enterprise customers with AWS security and identity management, including IAM policies, IAM roles, STS, MFA, KMS, bucket policies, access keys, and secure authentication workflows for production environments.
+- Validated and troubleshot integrations between Wasabi Object Storage and enterprise backup platforms including Veeam, Acronis, Nakivo, Rubrik, Commvault, MSP360, and Veritas, resolving interoperability, configuration, and API compatibility issues.
+- Designed and developed Python-based internal automation tools that streamlined support operations, reduced manual effort, and improved engineering productivity across the organization.
+- Collaborated closely with Engineering, Product, Sales, and Customer Success teams to perform root cause analysis, drive product improvements, resolve critical escalations, and contribute technical documentation and knowledge base articles.
+- Mentored new support engineers, led customer debugging sessions, and participated in on-call rotations to ensure rapid incident response and service reliability.
+- Technologies: AWS, Amazon S3, IAM, KMS, STS, MFA, Python, Linux, REST APIs, Kibana, Grafana, Prometheus, Git, SQL, Cloud Computing, Cloud Storage, Networking <br>
 
 **Tesla, Lathrop,California** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **Software Engineer Intern          (Feb'23 - May'23)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
@@ -104,7 +106,7 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 - DevelopingimpactfuldatavisualizationwithTableau,ReactandWebforexecutives.
 - Developing new data tools and web application with Flask and Django for process optimization and improving Tesla
 service efficiency.
-- Technology-Python,SQL,AWS,Flask,Django,WebDevelopment,React.js,JavaScript,Kubernetes,Docker,R,
+- Technologies - Python,SQL,AWS,Flask,Django,WebDevelopment,React.js,JavaScript,Kubernetes,Docker,R,
 MachineLearning, Automation. <br>
 
 **W.P. Carey School of Business,ASU, Tempe** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
@@ -120,7 +122,7 @@ MachineLearning, Automation. <br>
 - Worked on developing operations, automating operational processes, managing continuous delivery systems, and maintaining cloud services.<br>
 - Setup CI/CD pipelines using Gitlab and Azure Pipelines. <br>
 - Deployed and Troubleshoot .NET Core, NodeJS applications and Microservices in Azure Kubernetes Service (AKS). <br>
-- Technology - Microsoft Azure, DevOps, Python, Bash, Git <br>
+- Technologies - Microsoft Azure, DevOps, Python, Bash, Git <br>
 
 **Arizona State University, Tempe, AZ** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **_Graduate Statistics Tutor_      (Jan'22 - May'22)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
@@ -134,7 +136,7 @@ MachineLearning, Automation. <br>
 - Mentoring - Delivered training to new employees on Yardi’s product features, in house reporting tool YSR. <br>
 - Customer Support - Resolved a total of 750+ critical cases and modification cases. Worked closely
 with consultants and account managers post live conversion to provide any required technical support. <br>
-- Technology - Python, SQL, MS SQL Server, C#, .Net, SSRS, Excel
+- Technologies - Python, SQL, MS SQL Server, C#, .Net, SSRS, Excel
 
 🤔 Wanna see my credentials?
 

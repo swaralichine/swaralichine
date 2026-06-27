@@ -88,16 +88,20 @@ _Relevant Coursework: Data Structure, Algorithms,Machine Learning_ <br>
 
 💼 Let's Talk about my experiences. 
 
-**Wasabi Technologies, Boston,Massachusetts (Remote)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-**Senior Technical Support Engineer           (Oct'23 - Present)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
-- Resolved 3,000+ enterprise customer support cases and 250+ high-severity incidents, troubleshooting complex cloud storage, networking, authentication, and API issues while consistently exceeding customer satisfaction goals.
-- Served as a Subject Matter Expert (SME) for AWS-compatible S3 Object Storage, leading technical investigations, reproducing customer issues, analyzing server logs using Kibana, and leveraging Grafana and Prometheus to diagnose performance, latency, and infrastructure-related problems.
-- Assisted enterprise customers with AWS security and identity management, including IAM policies, IAM roles, STS, MFA, KMS, bucket policies, access keys, and secure authentication workflows for production environments.
-- Validated and troubleshot integrations between Wasabi Object Storage and enterprise backup platforms including Veeam, Acronis, Nakivo, Rubrik, Commvault, MSP360, and Veritas, resolving interoperability, configuration, and API compatibility issues.
-- Designed and developed Python-based internal automation tools that streamlined support operations, reduced manual effort, and improved engineering productivity across the organization.
-- Collaborated closely with Engineering, Product, Sales, and Customer Success teams to perform root cause analysis, drive product improvements, resolve critical escalations, and contribute technical documentation and knowledge base articles.
-- Mentored new support engineers, led customer debugging sessions, and participated in on-call rotations to ensure rapid incident response and service reliability.
-- Technologies: AWS, Amazon S3, IAM, KMS, STS, MFA, Python, Linux, REST APIs, Kibana, Grafana, Prometheus, Git, SQL, Cloud Computing, Cloud Storage, Networking <br>
+## 💼 Experience
+
+### Wasabi Technologies | Remote
+**Senior Technical Support Engineer**  
+*October 2023 – Present*
+
+- Resolved **3,000+ enterprise customer cases** and **250+ high-severity incidents**, troubleshooting cloud storage, networking, authentication, and API issues while consistently delivering excellent customer outcomes.
+- Served as a Subject Matter Expert (SME) for **AWS-compatible S3 Object Storage**, leading technical investigations, reproducing customer issues, analyzing server logs with **Kibana**, and leveraging **Grafana** and **Prometheus** to diagnose performance and infrastructure issues.
+- Assisted enterprise customers with **AWS security** including IAM, STS, KMS, MFA, bucket policies, access management, and secure authentication workflows.
+- Troubleshot integrations between Wasabi Object Storage and enterprise backup solutions including **Veeam, Acronis, Nakivo, Rubrik, Commvault, MSP360, and Veritas**, resolving API compatibility and interoperability issues.
+- Built **Python automation tools** to streamline internal support workflows, improve operational efficiency, and reduce manual effort.
+- Partnered with Engineering, Product, Sales, and Customer Success teams to perform root cause analysis, drive product improvements, contribute documentation, and resolve critical customer escalations.
+- Mentored new engineers, led customer debugging sessions, and participated in on-call rotations supporting production environments.
+**Technologies:** AWS, Amazon S3, IAM, STS, KMS, MFA, Python, Linux, REST APIs, Kibana, Grafana, Prometheus, Git, SQL, Cloud Computing, Networking
 
 **Tesla, Lathrop,California** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>
 **Software Engineer Intern          (Feb'23 - May'23)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <br>

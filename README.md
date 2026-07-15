@@ -150,6 +150,5 @@ with consultants and account managers post live conversion to provide any requir
 :office: Wanna see my portfolio?
 
 - https://swaralichine.github.io/
-- https://swaralichine.netlify.app/
-- https://chineswarali.wixsite.com/swaralichine
+
 
